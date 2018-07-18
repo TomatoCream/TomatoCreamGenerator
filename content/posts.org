@@ -1,0 +1,9 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ../content/
+#+TITLE: Title
+* post 1
+  things about 1
+** post 1.1
+   things about 1.1
+* post 2
+  things about 2
